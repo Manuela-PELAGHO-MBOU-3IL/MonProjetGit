@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  Modification dans main 
+=======
+Modification dans feature-c.
+>>>>>>> c629998 (Modification de info.txt dans feature-c)
